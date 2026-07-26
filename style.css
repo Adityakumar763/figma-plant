@@ -1,0 +1,146 @@
+
+.toparea{
+    background:#B0D0B0;
+}
+.navarea{
+    padding-left:60px;
+    
+}
+.logoarea img{
+
+    padding-left:60px;   
+}
+.search{
+    padding-left:40px;
+}
+.search img{
+   padding:20px 10px;
+}
+.headarea{
+    position:relative;
+    background-image:url('maskgroup.png');
+    overflow:hidden;
+}
+
+.imagearea{
+    position:absolute;
+    top:20%;
+    left:45%;
+    color:white;
+}
+.imagearea button{
+    background:#014B40;
+    border-radius:5px;
+    color:white;
+    padding:6px 15px;
+    text-align: center;
+    margin-right:15px;
+}
+.imagearea a{
+    color:white;
+    text-decoration:none;
+}
+.portarea{
+    padding-top:60px;
+    padding-bottom:120px;
+    color:#014B40;
+}
+.portarea img{
+    padding-top:30px;
+    margin-right:20px;
+}
+.searcharea{
+    background:#014B40;
+    padding:60px 0px;
+}
+.searching{
+    display:flex;
+}
+.searching input[type="text"]{
+    border-radius:10px;
+    width:1200px;
+    height:60px;
+    margin-left:20px;
+}
+.searchimage{
+    width:60px;
+    height:58px;
+    background:white;
+    border-radius:5px;
+    margin-left:20px;
+}
+.searchimage img{
+    margin:15px;
+}
+.flowerarea{
+    padding:70px 0;
+    padding-bottom:120px;
+    color:#014B40;
+}
+.flowerarea img{
+    padding-top:30px;
+    margin-right:20px;
+}
+.plant-stand{
+    padding-bottom:120px;
+    color:#014B40;
+}
+.plant-stand img{
+    padding-top:30px;
+    margin-right:20px;
+}
+.services{
+    padding-top:80px;
+    padding-bottom:150px;
+    background:url('services.png');
+    color:white;
+    text-align:center;
+}
+.footerarea{
+    margin-top:80px;
+    padding-top:80px;
+    background:#014B40;
+    color:white;
+        padding-bottom: 60px;
+
+}
+.lastarea{
+    padding-left:60px;
+}
+.news{
+    padding-left: 60px;
+}
+.news input[type="text"]{
+    background:#2C6B62;
+    border-radius:5px;
+    width:300px;
+    padding: 10px 40px;
+    margin:10px 0px;
+}
+.lastarea1{
+    padding-left:60px;
+}
+.lastarea2{
+    padding-left:60px;
+}
+.lastarea3{
+    padding-left:60px;
+}
+.lastarea3 i{
+    float:left;
+    margin-right:5px;
+    margin-top:8px;
+}
+.rights{
+    display:flex;
+    border-radius:10px;
+    padding:10px 10px;
+    background: #1A5D53;
+    margin-left:60px;
+}
+
+.icons{
+    display:flex;
+    gap:30px;
+    float:right;
+}
